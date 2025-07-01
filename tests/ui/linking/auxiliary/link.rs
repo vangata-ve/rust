@@ -1,4 +1,3 @@
-
 // Dummy linker implementation simulating __fastfail termination
 // See <https://devblogs.microsoft.com/oldnewthing/20190108-00/?p=100655>
 fn main() {
